@@ -35,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601973288433</updated>
       <workItem from="1601973290360" duration="52000" />
-      <workItem from="1602076661702" duration="12584000" />
+      <workItem from="1602076661702" duration="14805000" />
     </task>
     <servers />
   </component>
@@ -43,10 +43,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="504" width="1175" height="124" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602127932371">
+    <state x="96" y="504" width="1175" height="124" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602151692405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="96" y="504" width="1175" height="124" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1602127932371" />
+    <state x="96" y="504" width="1175" height="124" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1602151692405" />
     <state x="680" y="166" key="run.anything.popup" timestamp="1602130628371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
