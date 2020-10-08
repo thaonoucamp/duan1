@@ -23,6 +23,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601973288433</updated>
       <workItem from="1601973290360" duration="52000" />
-      <workItem from="1602076661702" duration="3390000" />
+      <workItem from="1602076661702" duration="4124000" />
     </task>
     <servers />
   </component>
